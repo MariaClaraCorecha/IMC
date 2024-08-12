@@ -1,0 +1,2 @@
+Este repositório contém um programa em C para calcular o Índice de Massa Corporal (IMC). O IMC é uma medida utilizada para avaliar se uma pessoa está dentro do peso ideal, com base em sua altura e peso. 
+Este programa solicita que o usuário insira seu peso em quilogramas e sua altura em metros, e em seguida, calcula e exibe o IMC, juntamente com a categoria correspondente (baixo peso, peso normal, sobrepeso, obesidade).
